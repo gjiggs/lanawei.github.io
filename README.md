@@ -22,10 +22,6 @@
 - [Contributing](#-contributing)
 - [Credits](#-credits)
 - [Useful Links](#-useful-links)
-- [Recommendations for a World-Class Website](#-recommendations-for-a-world-class-website)
-- [Setup Route](#-route-to-follow-for-setting-up-your-website)
-- [Extra Suggestions & Polish](#-extra-suggestions--polish)
-
 ---
 
 ## 🚀 Live Preview
